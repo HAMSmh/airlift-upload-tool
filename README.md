@@ -1,2 +1,2 @@
 Usage:
-```node index.js "/path/to/file.png"```
+```node index.cjs "/path/to/file.png"```
